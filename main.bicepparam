@@ -1,0 +1,5 @@
+using 'main.bicep'
+param databaseAccountName = 'cosmosdb4iot'
+param principalId = 'b492ad2b-1476-4e5d-9185-2e1a678a1a1d'
+param scope = '/'
+param roleDefinitionId = '00000000-0000-0000-0000-000000000001'

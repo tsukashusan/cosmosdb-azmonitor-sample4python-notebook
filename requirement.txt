@@ -1,0 +1,10 @@
+azure-cosmos
+azure-identity
+azure-monitor-query
+azure-monitor-ingestion
+openai
+python-dotenv
+ipykernel
+pandas
+plotly
+nbformat
